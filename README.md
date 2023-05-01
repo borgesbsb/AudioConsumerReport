@@ -1,0 +1,2 @@
+# AudioConsumerReport
+ Online data collection project "Audio Consumption Habits in Brazil" developed with Flask and React technologies. This system allows for the creation of customized questionnaires and validation of user-entered data, storing the results in a MySQL database. The project follows the best DevOps practices, ensuring continuous and automated delivery, with a focus on data security, scalability, and usability.
